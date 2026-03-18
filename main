@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UFO Anomalies</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Logo</h1>
+    </header>
+
+    <nav>
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+        <a href="#">Link 4</a>
+    </nav>
+
+    <div id="main-wrapper">
+
+        <main>
+            <article>
+                <section>
+                    <h2>Przykładowy artykuł strony vol.1</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat quam provident ab at officia voluptas! Provident dicta ab aut nostrum eos iure rerum culpa consequatur corrupti ducimus, dolor autem modi.</p>
+
+                    <h2>Przykładowy artykuł strony vol.2</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quo perspiciatis sapiente delectus odio voluptates laborum odit totam dicta laboriosam consectetur et rerum, quisquam dolor ex incidunt commodi est aspernatur?</p>
+
+                    <h2>Przykładowy artykuł strony vol.3</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quidem illum a, ad magnam at ut temporibus distinctio tempora nam harum atque hic. Quaerat, minus nobis consectetur veritatis ipsa quia.</p>
+
+                    <h2>Przykładowy artykuł strony vol.4</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam deleniti molestiae sint, libero ab natus adipisci omnis, consectetur, nisi odit doloremque. Dolor pariatur ea vero sit harum aperiam tenetur. Laboriosam.</p>
+                </section>
+            </article>
+        </main>
+    </div>
+</body>
+</html>
