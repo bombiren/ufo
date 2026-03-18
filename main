@@ -38,6 +38,43 @@
                 </section>
             </article>
         </main>
+
+        <aside>
+            <form>
+                <h2>Dołącz do newslettera!</h2>
+
+                <label>Email:</label>
+                <input type="email" placeholder="Wprowadz adres email">
+
+                <p>Wybierz swoją płeć</p>
+
+                <label>
+                    <input type="radio" name="plec" checked>Mężczyzna
+                </label>
+
+                <label>
+                    <input type="radio" name="plec">Kobieta
+                </label>
+
+                <label>
+                    <input type="radio" name="plec">Inne
+                </label>
+
+                <br><br>
+
+                <label>
+                    <input type="checkbox" required>Nie jestem robotem
+                </label>
+
+                <br><br>
+
+                <input type="submit" value="wyślij zapytanie" disabled>
+            </form>
+        </aside>
     </div>
+
+    <footer>
+        <h3>Jakub Foryś</h3>
+    </footer>
 </body>
 </html>
