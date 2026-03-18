@@ -9,15 +9,17 @@
 <body>
 
     <header>
-        <h1>Logo</h1>
+        <h1>👽UFO Anomalies🛸</h1>
     </header>
 
     <nav>
-        <a href="#">Link 1</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
-        <a href="#">Link 4</a>
+        <a href="#">Strona główna</a>
+        <a href="#">Galeria</a>
+        <a href="#">O nas</a>
+        <a href="#">Kontakt</a>
     </nav>
+
+    <hr>
 
     <div id="main-wrapper">
 
