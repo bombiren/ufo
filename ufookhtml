@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="pl">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Ufo anomalies</title>
+        <link rel="stylesheet" href="styl.css" />
+    </head>
+    <body>
+        <section id="glowna">
+            <header id="gora">
+                <h1>👽UFO Anomalies🛸</h1>
+                <br />
+                <nav id="guziki">
+                    <a href="#">Strona główna</a>
+                    <a href="#galeria">Galeria</a>
+                    <a href="#about">O nas</a>
+                    <a href="#kontakt">Kontakt</a>
+                </nav>
+            </header>
+            <hr />
+            <section id="e">
+                <section id="ee">
+                    <section>
+                        <h2>Przykładowy artykuł strony #1</h2>
+                        <article>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur,
+                                adipisicing elit. Obcaecati sapiente ea
+                                explicabo voluptate optio laboriosam corporis,
+                                dolorum consectetur repellendus incidunt.
+                            </p>
+                        </article>
+                    </section>
+                    <section>
+                        <h2>Przykładowy artykuł strony #2</h2>
+                        <article>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur,
+                                adipisicing elit. Obcaecati sapiente ea
+                                explicabo voluptate optio laboriosam corporis,
+                                dolorum consectetur repellendus incidunt.
+                            </p>
+                        </article>
+                    </section>
+                    <section>
+                        <h2>Przykładowy artykuł strony #3</h2>
+                        <article>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur,
+                                adipisicing elit. Obcaecati sapiente ea
+                                explicabo voluptate optio laboriosam corporis,
+                                dolorum consectetur repellendus incidunt.
+                            </p>
+                        </article>
+                    </section>
+                    <section>
+                        <h2>Przykładowy artykuł strony #4</h2>
+                        <article>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur,
+                                adipisicing elit. Obcaecati sapiente ea
+                                explicabo voluptate optio laboriosam corporis,
+                                dolorum consectetur repellendus incidunt.
+                            </p>
+                        </article>
+                    </section>
+                </section>
+                <aside>
+                    <h2>Dołącz do newslettera!</h2>
+                    <form id="e1">
+                        <input
+                            type="email"
+                            pattern="^[a-z0-9](\.?[a-z0-9]){5,}@g(oogle)?mail\.com$"
+                            placeholder="Wprowadź adres email"
+                            required
+                        />
+                        <h3>Wybierz swoją płeć.</h3>
+                        <div id="e2">
+                            <input
+                                name="gender"
+                                type="radio"
+                                id="female"
+                                required
+                            />
+                            <label for="female">Kobieta</label>
+                            <input
+                                name="gender"
+                                type="radio"
+                                id="male"
+                                required
+                            />
+                                                            <label for="male">Mężczyzna</label>
+                                                            <input
+                                                                name="gender"
+                                                                type="radio"
+                                                                id="other"
+                                                                required
+                                                            />
+                                                            <label for="other">Inna</label>
+                                                        </div>
+                                                        <div id="e3">
+                                                            <input
+                                                                type="checkbox"
+                                                                placeholder="Nie jestem robotem"
+                                                                id="bot"
+                                                                required
+                                                            />
+                                                            <label for="bot">Nie jestem robotem</label>
+                                                        </div>
+                                                        <button>Wyślij zapytanie</button>
+                                                        </form>
+                                                    </section>
+                                                </aside>
+                                            </section>
+                                            <footer><b>TEB Edukacja (c) 2023 - Jakub Foryś</b></footer>
+                                        </section>
+                                    </body>
+                                </html>
